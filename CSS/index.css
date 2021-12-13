@@ -1,0 +1,6 @@
+body {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    grid-template-rows: 15% 70% 15%;
+    background-color: bisque;
+}
